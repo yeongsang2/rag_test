@@ -1,0 +1,4 @@
+*.json
+*venv
+.ipyn_checkpoints
+.env
